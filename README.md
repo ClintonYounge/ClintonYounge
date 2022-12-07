@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClintonYounge
 - 👀 I’m interested in becoming a great full stack web developer.
 - 🌱 I’m currently learning Javascript, HTML, CSS
-- 💞️ I’m looking to collaborating with others and developing my skills as a programmer.
+- 💞️ I’m looking forward to collaborating with others and developing my skills as a programmer.
 - 📫 Reach me on clintonyounge18@gmail.com
 
 <!---
