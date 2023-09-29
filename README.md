@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClintonYounge
-- 👀 I’m interested in becoming a great full stack web developer.
-- 🌱 I’m currently learning React and Redux
+- 👀 I’ll become a great full stack web developer.
+- 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking forward to collaborating with others and developing my skills as a programmer.
 - 📫 Reach me on clintonyounge18@gmail.com
 
