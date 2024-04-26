@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clinton Younge.
-- 👀 I’ll become a great full stack web developer.
-- 🌱 I’m currently learning Ruby on Rails.
-- 💞️ I’m looking forward to collaborating with others and developing my skills as a programmer.
+- 👀 Prior Full Stack Web Developer. Currently a Technical Solutions Consultant/Developer.
+- 🌱 I’m currently learning to use already built software applications to help businesses.
+- 💞️ I’m looking forward to collaborating with others and developing my skills as someone in love with the tech industry.
 - 📫 Reach me on clintonyounge18@gmail.com
 
 <!---
