@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clinton Younge.
 - 👀 Prior Full Stack Web Developer. Currently a Technical Solutions Consultant/Developer.
-- 🌱 I’m currently learning to use already built software applications to help businesses.
+- 🌱 I’m currently learning to configure prebuilt software applications to help businesses.
 - 💞️ I’m looking forward to collaborating with others and developing my skills as someone in love with the tech industry.
 - 📫 Reach me on clintonyounge20@gmail.com
 
