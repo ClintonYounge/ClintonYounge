@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Clinton Younge.
-- 👀 Prior Full Stack Web Developer. Currently a Technical Solutions Consultant/Developer.
-- 🌱 I’m currently learning to configure prebuilt software applications to help businesses.
-- 💞️ I’m looking forward to collaborating with others and developing my skills as someone in love with the tech industry.
+- 👀 Prior Full Stack Web Developer, Technical Solutions Consultant, and IT Technician.
+- 🌱 I’m currently a manager of Business Development for a liquor store. I overlook all East Coast operations, managing millions of dollars in sales every week.
+- 💞️ I’m looking forward to collaborating, and exchanging knowledge with others and developing my skills as someone in love with the tech industry.
 - 📫 Reach me on clintonyounge20@gmail.com
 
 <!---
